@@ -1,0 +1,195 @@
+.wybor1
+{
+
+    height: 100px;
+    margin-top: 15px;
+    
+    -webkit-box-shadow: 0px 0px 5px 3px rgba(214,206,214,1);
+    -moz-box-shadow: 0px 0px 5px 3px rgba(214,206,214,1);
+    box-shadow: 0px 0px 5px 3px rgba(214,206,214,1);
+    border-radius: 8px;
+    background-color: #EFFFFF;
+    display: table;
+
+}
+
+.wybor1:hover
+{
+    background-color: #CFFFFF;
+    cursor: pointer;
+}
+
+.wybor2
+{
+    height: 100px;
+    margin-top: 15px;   
+    -webkit-box-shadow: 0px 0px 5px 3px rgba(214,206,214,1);
+    -moz-box-shadow: 0px 0px 5px 3px rgba(214,206,214,1);
+    box-shadow: 0px 0px 5px 3px rgba(214,206,214,1);
+    border-radius: 8px;
+    background-color: #EFFFFF;
+    display: table;
+}
+
+.wybor2:hover
+{
+    background-color: #CFFFFF;
+    cursor: pointer;
+}
+
+.srodek
+{   
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.d
+{
+height: 50px;
+margin: 15px 5px 10px 10px;
+padding-left:0 ;
+}
+
+.d4
+{
+    float: left;
+    height: 49px;
+    margin-left: 50px;
+    padding: 0;
+    text-align: left;
+}
+
+.kontakt
+{
+    color:black;
+    font-size:50px;
+    margin:0px;
+    line-height: 0;
+}
+.d2
+{
+    float: left;
+    height: 50px;
+    padding: 0px;
+}
+
+.cl
+{
+    clear: both;
+}
+
+.d1
+{
+    display: table;
+    height: 50px;
+    margin: 15px;
+    margin-right: 5px;
+    padding-right: 0;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.middle
+{
+    display: table-cell;
+    vertical-align: middle;
+    text-align: right;  
+}
+
+.wpis
+{
+    height: 49px;
+    
+    border-radius: 5px;
+    padding-left: 5px;
+    border: 1px rgb(196, 192, 192) solid;
+}
+
+
+.odbiorca
+{
+   
+    height: 49px;
+    border-radius: 5px;
+    padding-left: 5px;
+    text-align: left;
+    border: 1px rgb(196, 192, 192) solid;
+}
+
+#konto
+{
+    height: 49px;
+    border-radius: 5px;
+    padding-left: 5px;
+    border: 1px rgb(196, 192, 192) solid;
+}
+
+.link
+{
+    color: black;
+}
+
+.link:hover
+{
+    text-decoration:none;
+    color: black;
+}
+
+.info
+{
+    float: left;
+    text-align: center;
+}
+
+.sub
+{
+    float: left;
+    text-align: right;
+    font-size: 22px;
+    padding-right: 150px;
+    border-radius: 8px;
+}
+
+.wyslij
+{
+    -webkit-box-shadow: 0px 0px 5px 3px rgba(214,206,214,1);
+    -moz-box-shadow: 0px 0px 5px 3px rgba(214,206,214,1);
+    box-shadow: 0px 0px 5px 3px rgba(214,206,214,1);
+    border-radius: 8px;
+    height: 50px;
+    width: 150px;
+}
+
+.wyslij:hover
+{
+    cursor: pointer;
+    background-color: #CFFFFF;
+}
+
+.powodzenie
+{
+    color: green;
+    font-size: 30px;
+}
+
+.niepowodzenie
+{
+    color: red;
+    font-size: 26px;
+}
+
+.od
+{
+    height: 49px;
+    border-radius: 5px;
+    padding-left: 5px;
+    border: 1px rgb(196, 192, 192) solid;
+}
+
+@media screen and (min-width: 250px) and (max-width: 994px)
+{.rn 
+{
+display: none;
+}
+}

@@ -1,0 +1,132 @@
+#dane
+{
+    -webkit-box-shadow: 0px 0px 5px 3px rgba(214,206,214,1);
+    -moz-box-shadow: 0px 0px 5px 3px rgba(214,206,214,1);
+    box-shadow: 0px 0px 5px 3px rgba(214,206,214,1);
+    border-radius: 5px;
+}
+
+#rodo
+{
+    -webkit-box-shadow: 0px 0px 5px 3px rgba(214,206,214,1);
+    -moz-box-shadow: 0px 0px 5px 3px rgba(214,206,214,1);
+    box-shadow: 0px 0px 5px 3px rgba(214,206,214,1);
+    border-radius: 5px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    text-align: justify;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.dp
+{
+    float: left;
+}
+
+.dp1
+{
+    float: left;
+    font-weight: 700;
+    padding-right: 0px;
+    color: #333;
+}
+
+.cl
+{
+    clear: both;
+}
+
+.a
+{
+text-align: end;
+float: left;
+padding-top: 15px;
+padding-left: 0px;
+padding-bottom: 0px;
+padding-right: 0px;
+}
+
+.okno
+{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50%;
+}
+
+.b
+{
+    border: none;
+    background-color: white;
+    color: rgb(19, 168, 19);
+    text-align: end;
+}
+
+.b:hover
+{
+    background-color:rgb(220, 255, 220);
+    color: #117111 ;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+#in
+{
+    margin: 2px;
+}
+
+input{
+    border-radius: 3px;
+    border: 1px solid #98FB98;
+}
+
+
+#reg
+{
+    text-align: right;
+}
+
+.blad
+{
+    color: red; 
+    text-align: left; 
+    height: 45px; 
+    font-weight: 700;
+    margin-top: 15px;
+    margin-bottom: 0px;
+    position: fixed;
+}
+
+.okno
+{
+    color: #333; 
+    text-align: left; 
+    float:left; 
+    margin-bottom: auto; 
+    margin-top: 250px; 
+    text-align: left;
+}
+
+.ok
+{
+    color: green; 
+    text-align: left; 
+    float:left; 
+    height: 45px; 
+    font-weight: 700;
+}
+
+.dp3
+{
+    text-align: left; 
+    float:left; 
+    height: 45px; 
+    font-weight: 700;
+}
+
+.data
+{
+    width: 185.3px;
+}

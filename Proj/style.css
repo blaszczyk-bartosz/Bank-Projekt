@@ -1,0 +1,170 @@
+body
+{
+    margin:0;
+    padding:0;
+    min-height:100%;
+    font-family: 'Lato', sans-serif;
+    color: #333
+}
+.container
+{
+    padding:0;
+    min-height:100%;
+
+}
+
+.row
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navbar
+{
+    width: 100%;
+    background-color: #98FB98 !important;
+    
+}
+ 
+.dropdown-menu
+{
+    background-color: #daffc2;
+}
+
+.logo
+{
+    width: 95px;
+    height: 85px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.settings
+{
+    line-height: 225%;
+    text-decoration: none;
+}
+
+.settings > a
+{
+    color: black;
+    text-decoration: none;
+    display: block;
+}
+
+.page
+{
+    text-align: center;
+}
+
+.story
+{
+   
+    min-height: 400px;
+    -webkit-box-shadow: 0px 0px 5px 3px rgba(214,206,214,1);
+    -moz-box-shadow: 0px 0px 5px 3px rgba(214,206,214,1);
+    box-shadow: 0px 0px 5px 3px rgba(214,206,214,1);
+    border-radius: 8px;
+}
+
+.balance
+{
+    max-width: 100%;
+    height: 300px;
+    font-size: 14px;
+    padding: 5px;
+    line-height: 50%;
+    -webkit-box-shadow: 0px 0px 5px 3px rgba(214,206,214,1);
+    -moz-box-shadow: 0px 0px 5px 3px rgba(214,206,214,1);
+    box-shadow: 0px 0px 5px 3px rgba(214,206,214,1);
+    border-radius: 8px;
+}
+
+.balance > h1
+{
+    text-align: center;
+    text-decoration: black underline;
+    font-size: 28px;
+}
+
+.balance > h2
+{
+    text-align: left;
+    font-size: 20px;
+    margin-bottom: -10px;
+
+}
+
+.balance > h3 > .count
+{
+font-size: 15px;
+}
+
+.balance > h4 > .number
+{
+font-size: 16px;
+font-weight: 900;
+}
+
+.balance > h4
+{
+    font-weight: 900;
+    text-align: right;
+}
+
+.story > h1
+{
+    text-align: center;
+    text-decoration: black underline;
+    font-size: 28px;
+}
+
+.ikona
+{
+    width:  33%;
+    text-align: center;
+    float: left;
+}
+.odbiorca
+{
+    width:  33%;
+    text-align: center;
+    float: left;
+}
+
+.kwota
+{
+    width:  33%;
+    text-align: center;
+    float: left;
+}
+
+.footer
+{
+    padding: 10px;
+    background-color: #00FF7F;
+    text-align: center;
+    min-height: 50px;
+    width: 100%;
+}
+
+.reklama
+{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.doreklamy
+{
+    text-align: center;
+    line-height: 200%;
+}
+
+.RRSO
+{
+    text-align: justify;
+    font-size: 10px;
+    margin-bottom: 15px;
+}
+
